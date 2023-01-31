@@ -1,0 +1,13 @@
+name = "EpiPf"
+uuid = "475a5403-fb67-4f30-8d3c-cb4857aaa750"
+authors = ["Annika Helverson <annika-helverson@uiowa.edu> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
